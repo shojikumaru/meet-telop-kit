@@ -1,0 +1,12 @@
+out/
+work/
+*.mp4
+*.mov
+*.wav
+*.bin
+*.srt
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
